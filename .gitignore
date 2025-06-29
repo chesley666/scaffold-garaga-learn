@@ -5,3 +5,8 @@ build
 .secrets
 accounts.json
 garaga-venv
+.vscode
+.idea
+*.log
+*.env
+*.DS_Store
